@@ -4,7 +4,7 @@ Techsaksham Capstone Project
 
 
 
-As an user, I would like have create account facility.
+As an user, I would like to have create account facility.
 
 As an user, I would like to deposit money to my account.
 
